@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/Acer/Desktop/from0/rl1/mlruns/913801694753409012/b1c9d1a1000c497a93960a62acc07a46/artifacts
+end_time: 1741036049079
+entry_point_name: ''
+experiment_id: '913801694753409012'
+lifecycle_stage: active
+run_id: b1c9d1a1000c497a93960a62acc07a46
+run_name: nimble-loon-514
+run_uuid: b1c9d1a1000c497a93960a62acc07a46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741029063999
+status: 3
+tags: []
+user_id: Acer
